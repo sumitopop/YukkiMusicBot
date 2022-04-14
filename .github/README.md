@@ -1,8 +1,8 @@
 <img src="https://te.legra.ph/file/3978946d37c05c9a4104c.png" align="right" width="200" height="200"/>
 
-# Yukki Music Bot <img src="https://img.shields.io/github/v/release/TeamYukki/YukkiMusicBot?color=black&logo=github&logoColor=black&style=social" alt="RELEASE">
+# Sumit Music Bot <img src="https://img.shields.io/github/v/release/TeamYukki/YukkiMusicBot?color=black&logo=github&logoColor=black&style=social" alt="RELEASE">
 
-[Yukki Music Bot](https://github.com/TeamYukki/YukkiMusicBot) is a Powerful Telegram Music+Video Bot written in Python using Pyrogram and Py-Tgcalls by which you can stream songs, video and even live streams in your group calls via various sources.
+[Sumit Music Bot](https://github.com/TeamYukki/YukkiMusicBot) is a Powerful Telegram Music+Video Bot written in Python using Pyrogram and Py-Tgcalls by which you can stream songs, video and even live streams in your group calls via various sources.
 
 * Youtube, Soundcloud, Apple Music, Spotify, Resso and Telegram Audios & Videos support.
 * Written from scratch, making it stable and less crashes.
@@ -29,11 +29,11 @@ For more information on the technologies that power the Yukki Music Bot, check o
 
 # ⚡️ Getting Started
 
-### Before deploying Yukki Music Bot , please have a look towards [all available config vars](../config/README.md) , also please check [all available commands](../strings/command.yml) of the project.
+### Before deploying Sumit Music Bot , please have a look towards [all available config vars](../config/README.md) , also please check [all available commands](../strings/command.yml) of the project.
 
 > If you want to start working with Yukki Music Bot you can either fork or import repo .
 > The official [documentation site](https://notreallyshikhar.gitbook.io/yukkimusicbot/) contains a lot of information. The best place to start is from the deployment section.
-> If you'd like to talk to us, join us on our [Telegram Group](https://t.me/YukkiSupport)
+> If you'd like to talk to us, join us on our [Telegram Group]https://t.me/iMi_SuMiT_Op)
 
 
 ## 🖇 Prerequisites
@@ -96,8 +96,8 @@ shikhar@MacBook~ $ bash start
 Reach out to the maintainer at one of the following places:
 
 - [GitHub Issues](https://github.com/TeamYukki/yukkimusicbot/issues/new?assignees=&labels=question&template=SUPPORT_QUESTION.md&title=support%3A+)
-- Contact options listed on [this GitHub profile](https://github.com/TeamYukki)
-- [Telegram Support](https://t.me/YukkiSupport)
+- Contact options listed on [this GitHub profile](https://t.me/iMi_SuMiT_Op)
+- [Telegram Support](https://t.me/iMi_SuMiT_Op)
 
 ## 🎗 Project assistance
 
@@ -120,7 +120,7 @@ Please read [our contribution guidelines](CONTRIBUTING.md), and thank you for be
 
 ## 👨🏻‍💻 Authors & contributors
 
-The original setup of this repository is by [Team Yukki](https://github.com/TeamYukki).
+The original setup of this repository is by [Team Yukki](https://t.me/iMi_SuMiT_Op).
 
 For a full list of all authors and contributors, see [the contributors page](https://github.com/TeamYukki/YukkiMusicBot/contributors).
 
